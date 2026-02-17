@@ -1,5 +1,7 @@
 # Simple Chat
 
+[**🎥 Watch the Demo Video**](demo.mp4)
+
 A simple asynchronous chat server and CLI client built in Rust using Tokio.
 
 ## Architecture
